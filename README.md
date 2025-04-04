@@ -6,7 +6,7 @@ This project is a containerized Task Management System with a fully optimized CI
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/he-is-talha/task-app.git
+   git clone https://github.com/SamanZAli/Devopsasignemnent1.git
    cd task-app
    ```
 
