@@ -1,0 +1,10 @@
+
+namespace: prod
+
+resources:
+  - namespace.yaml
+  - backend-deployment.yaml
+  - configmap.yaml
+  - secret.yaml
+  - postgres-statefulset.yaml
+
