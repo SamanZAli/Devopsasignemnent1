@@ -4,12 +4,7 @@ resources:
   - namespace.yaml
   - backend-deployment.yaml
   - configmap.yaml
-  - backend-service.yaml
   - secret.yaml
   - postgres-statefulset.yaml
-  - backend-service.yaml
-  - ingress.yaml
   - service.yaml
-  - postgres-service.yaml
-
-
+  - ingress.yaml
