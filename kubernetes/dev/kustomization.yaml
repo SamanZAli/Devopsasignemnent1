@@ -6,5 +6,5 @@ resources:
   - configmap.yaml
   - secret.yaml
   - postgres-statefulset.yaml
-  - service.yaml
+  - backend-service.yaml
   - ingress.yaml
